@@ -1,0 +1,27 @@
+@font-face { font-family: Valorant ; src: url('Valorant.ttf'); } 
+@font-face { font-family: MM ; src: url('Malicious Moonlight.otf'); } 
+@font-face { font-family: Holborn; src: url('Holborn.otf'); } 
+
+h1 { 
+    font-family: Valorant, sans-serif; 
+color: rgb(95, 95, 233);
+-webkit-text-stroke: 1.25px black ;}
+
+
+body{
+    background-color: gray;
+    margin-left: 20px;
+}
+
+h3 { 
+    font-family: MM, sans-serif; 
+    color: white;
+    -webkit-text-stroke: 0.8px black ;
+   
+}
+
+h5{
+    font-family: Holborn, sans-serif; 
+    font-size: x-large;
+    color: white;
+}
